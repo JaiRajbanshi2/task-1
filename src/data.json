@@ -1,0 +1,23 @@
+{
+  "clinicName": "Sunrise Community Clinic",
+  "phone": "+1-555-0100",
+  "hours": [
+    { "day": "Monday", "open": "08:00", "close": "18:00" },
+    { "day": "Tuesday", "open": "08:00", "close": "18:00" },
+    { "day": "Wednesday", "open": "08:00", "close": "18:00" },
+    { "day": "Thursday", "open": "08:00", "close": "20:00" },
+    { "day": "Friday", "open": "08:00", "close": "16:00" },
+    { "day": "Saturday", "open": "09:00", "close": "13:00" },
+    { "day": "Sunday", "open": null, "close": null }
+  ],
+  "services": [
+    { "name": "General check-up", "category": "Adults" },
+    { "name": "Blood pressure check", "category": "Adults" },
+    { "name": "Flu vaccination", "category": "Vaccines" },
+    { "name": "Travel vaccines", "category": "Vaccines" },
+    { "name": "Child health check", "category": "Children" },
+    { "name": "Hearing test", "category": "Children" },
+    { "name": "Eye screening", "category": "Tests" },
+    { "name": "Blood test", "category": "Tests" }
+  ]
+}
